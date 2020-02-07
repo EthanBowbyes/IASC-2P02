@@ -7,4 +7,4 @@ I am a student at Brock University. This is my awesome portfolio site.
 ![](imagez/i-do-digital-humanities.jpg)
 
 ##Blog Post
-First sentence of blog post goes here...
+First sentence of blog post goes here... [continue reading](blog)
