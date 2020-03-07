@@ -1,4 +1,4 @@
-<h>Acedemic Blog Post</h>
+<h1>Acedemic Blog Post</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor massa ipsum, nec dapibus arcu convallis quis. Phasellus ex libero, vulputate imperdiet condimentum sit amet, interdum nec elit. Morbi sed lacinia lectus, at consequat tortor. Praesent risus odio, laoreet id nisi eget, consectetur finibus nunc. Ut in nunc eros. Nam in semper justo, non lobortis nunc. Suspendisse faucibus elit vitae nisl viverra condimentum. Curabitur sit amet mauris nec ipsum tristique aliquet. Morbi posuere velit leo, eu facilisis eros lobortis vitae. Aenean cursus magna eu quam ornare, eget sollicitudin lectus ullamcorper. Donec accumsan ut lectus auctor auctor.
 
