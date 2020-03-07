@@ -1,5 +1,7 @@
 <h1>Acedemic Blog Post</h1>
 
+<h2>Prompt</h2>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor massa ipsum, nec dapibus arcu convallis quis. Phasellus ex libero, vulputate imperdiet condimentum sit amet, interdum nec elit. Morbi sed lacinia lectus, at consequat tortor. Praesent risus odio, laoreet id nisi eget, consectetur finibus nunc. Ut in nunc eros. Nam in semper justo, non lobortis nunc. Suspendisse faucibus elit vitae nisl viverra condimentum. Curabitur sit amet mauris nec ipsum tristique aliquet. Morbi posuere velit leo, eu facilisis eros lobortis vitae. Aenean cursus magna eu quam ornare, eget sollicitudin lectus ullamcorper. Donec accumsan ut lectus auctor auctor.
 
 Donec pellentesque, metus quis luctus tincidunt, nulla ligula auctor diam, aliquet finibus lacus eros nec augue. Pellentesque molestie nisl ligula, vel lacinia mauris commodo elementum. Nunc id ultricies sem. Pellentesque vulputate, diam non elementum porttitor, ex quam imperdiet nunc, ut iaculis nibh diam ut magna. Curabitur quis consequat metus. Sed massa neque, fermentum a magna ut, aliquet luctus neque. Fusce non imperdiet velit.
