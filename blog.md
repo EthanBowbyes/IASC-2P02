@@ -1,13 +1,14 @@
 <h1>Acedemic Blog Post</h1>
 
 <h2>Prompt</h2>
-Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital humanities scholarship, where readers are asked to think critically across both textual and graphical modes. As such, digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media (such as graphs, images, audio, and so on). <b>Creating scholarship that asks readers to interpret across multiple modes will distinguish (treat as different) digital humanities scholarship from scholarship in other fields.</b> 
+Both <u>Moretti</u> and <u>Drucker</u> argue that visual forms (e.g. graphs, maps, etc.) can and should be used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital humanities scholarship, where readers are asked to think critically across both textual and graphical modes. As such, digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media (such as graphs, images, audio, and so on). <b>Creating scholarship that asks readers to interpret across multiple modes will distinguish (treat as different) digital humanities scholarship from scholarship in other fields.</b> 
 
-<h2>Blog Post Title</h2>
+<h2>Another Digital Humanities Revolution?</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor massa ipsum, nec dapibus arcu convallis quis. Phasellus ex libero, vulputate imperdiet condimentum sit amet, interdum nec elit. Morbi sed lacinia lectus, at consequat tortor. Praesent risus odio, laoreet id nisi eget, consectetur finibus nunc. Ut in nunc eros. Nam in semper justo, non lobortis nunc. Suspendisse faucibus elit vitae nisl viverra condimentum. Curabitur sit amet mauris nec ipsum tristique aliquet. Morbi posuere velit leo, eu facilisis eros lobortis vitae. Aenean cursus magna eu quam ornare, eget sollicitudin lectus ullamcorper. Donec accumsan ut lectus auctor auctor.
 
 Donec pellentesque, metus quis luctus tincidunt, nulla ligula auctor diam, aliquet finibus lacus eros nec augue. Pellentesque molestie nisl ligula, vel lacinia mauris commodo elementum. Nunc id ultricies sem. Pellentesque vulputate, diam non elementum porttitor, ex quam imperdiet nunc, ut iaculis nibh diam ut magna. Curabitur quis consequat metus. Sed massa neque, fermentum a magna ut, aliquet luctus neque. Fusce non imperdiet velit.
 
+<h4>Figure One</h4>
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
@@ -21,6 +22,7 @@ Feel free to change the height and width values or other styling below: -->
 Aliquam sagittis tellus at nulla euismod, non sagittis libero iaculis. Cras condimentum faucibus mauris, quis aliquet dolor pretium at. Sed non ultricies metus, sit amet tincidunt justo. Donec et ipsum feugiat, semper nunc lobortis, volutpat elit. Integer mollis urna vitae volutpat rutrum. Mauris gravida diam dolor. Fusce vulputate orci velit, sit amet elementum tellus congue a. Sed viverra varius quam, non rutrum orci sodales id. Vivamus condimentum ipsum sit amet lorem aliquam, in gravida nisl interdum. Quisque et diam magna. Donec magna lacus, pellentesque ut ultricies non, pulvinar et nibh. Nulla consectetur lacinia scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 <h2>References</h2>
+
 
 Go Back... [Home](README.md)
 
