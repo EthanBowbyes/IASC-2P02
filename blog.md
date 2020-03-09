@@ -12,10 +12,12 @@ Both <b>Moretti</b> and <b>Drucker</b> argue that visual forms (e.g. graphs, map
 <!-- Morretti & Drucker -->
 Donec pellentesque, metus quis luctus tincidunt, nulla ligula auctor diam, aliquet finibus lacus eros nec augue. Pellentesque molestie nisl ligula, vel lacinia mauris commodo elementum. Nunc id ultricies sem. Pellentesque vulputate, diam non elementum porttitor, ex quam imperdiet nunc, ut iaculis nibh diam ut magna. Curabitur quis consequat metus. Sed massa neque, fermentum a magna ut, aliquet luctus neque. Fusce non imperdiet velit.
 
+<h4>Figure One</h4>
+![](images/Drucker 1.png)
+
 <!-- Voyant -->
 
-
-<h4>Figure One</h4>
+<h4>Figure Two</h4>
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
