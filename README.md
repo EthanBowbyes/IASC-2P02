@@ -7,4 +7,4 @@ Hello, my name is Ethan Bowbyes and I am a student at Brock University. I am cur
 ![](images/gitpic.JPG)
 
 ## Blog Post
-First sentence of blog post goes here... [continue reading](blog)
+Scholarly readings can be very difficult to understand, interpret, and absorb which is many times due to extensive amounts of complex textual context... [continue reading](blog)
