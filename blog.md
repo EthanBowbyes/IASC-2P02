@@ -14,12 +14,12 @@ Both <b>Moretti</b> and <b>Drucker</b> argue that visual forms (e.g. graphs, map
 
 <p>Figure one is an example of how Drucekr uses a graph to map out subjective information by representing, “the “appearance” in 1855 of fourteen novels is shown in relation to the time of writing, acquisition, editing, pre-press work, and release thus showing publication date as a factor of many other processes whose temporal range is very varied” (Drucker, 2011). In Drucker’s article (2011) she says, “Subjective information can use graphical means to show its inflected character, demonstrating its deviation from standard norms in the way the display looks, or, in dynamic displays, the way it acts” (Humanities Approaches to Graphical Display, para. 26). Drucker is stressing that subjective information can also be graphed because it has the ability to be understood and seen differently. It can act as something completely new because the capta is shown in a new way to be better understood, as opposed to reading purely text.</p>
 
-<p>In an alternate Drucker article called “Humanistic Theory and Digital Scholarship” (2012), she says, “As we turn our attention from that first phase of textual studies and critical editing, we see the phenomena I noted appear on the horizon: data mining with all its attendant visualization techniques, engagement with geospatial tools, and the use of timelines and other graphic conventions... where predictable outcomes and repeatable results are at the desired outcomes even if they are not absolute tenets of belief”(Humanistic Theory and Digital Scholarship, para. 14).  This quote highlights how the digital humanities are evolving and is a continuing evolving field of study. </p>
-
 <h4>Figure One</h4>
 ![](images/Drucker 1.png)
 
 <!-- Voyant -->
+<p>In an alternate Drucker article called “Humanistic Theory and Digital Scholarship” (2012), she says, “As we turn our attention from that first phase of textual studies and critical editing, we see the phenomena I noted appear on the horizon: data mining with all its attendant visualization techniques, engagement with geospatial tools, and the use of timelines and other graphic conventions... where predictable outcomes and repeatable results are at the desired outcomes even if they are not absolute tenets of belief”(Humanistic Theory and Digital Scholarship, para. 14).  This quote highlights how the digital humanities are evolving and is a continuing evolving field of study. </p>
+
 <p>As shown below (figure 2), some of the main words that are mentioned in the two main acknowledged articles by Moretti and Drucker include, “humanistic”, “graphical”, “data”, “information” and “interpretation”. These words are all related and important because it summarizes what they are talking about by visually displaying words used more frequently larger and vice versa. These words precisely  summarize the main points of the readings that were discussed. </P>
 
 <h4>Figure Two</h4>
